@@ -1,0 +1,9 @@
+(module TH-OVAL (layer F.Cu) (tedit 54BBD061)
+  (fp_text reference TH-OVAL (at -4.1 -2) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value VAL** (at -4.5 1.6) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole rect (at 0 0) (size 9.2 3) (drill 2) (layers *.Cu *.Mask F.SilkS))
+)

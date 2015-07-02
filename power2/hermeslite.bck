@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT3633
+D Hight Voltage Step-down switching regulator (synchronous)  3 A
+K REGUL POWER
+F linear-tec/lt3430f.pdf
+$ENDCMP
+#
+$CMP SC189
+D SC189 2.5MHz 1.5A Synchronous Step Down Regulator
+K 1.5A Swiching 1.0-3.3V output regulator
+F http://www.semtech.com/images/datasheet/sc189.pdf
+$ENDCMP
+#
+#End Doc Library
