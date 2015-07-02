@@ -1,0 +1,731 @@
+Cmp-Mod V01 Created by Cvpcb (2014-10-27 BZR 5228)-product   date = 27/04/2015 07:51:02
+
+BeginCmp
+TimeStamp = /54872F5F;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54872CD7;
+Reference = C2;
+ValeurCmp = 47uF 16V;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeD_EIA-7343_Reflow;
+EndCmp
+
+BeginCmp
+TimeStamp = /5495ED37;
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5495ED44;
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /549F2C74/552FE8B7;
+Reference = C5;
+ValeurCmp = 56pf;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5495ED2B;
+Reference = C6;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54960617;
+Reference = C7;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /549605D3;
+Reference = C8;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496053A;
+Reference = C9;
+ValeurCmp = 1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A1ABD4;
+Reference = C10;
+ValeurCmp = 10uF 16V;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeB_EIA-3528_Reflow;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A5D8CD;
+Reference = C11;
+ValeurCmp = 4700pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A30923;
+Reference = C12;
+ValeurCmp = 120pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A3099C;
+Reference = C13;
+ValeurCmp = 120pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A309FA;
+Reference = C14;
+ValeurCmp = 82pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A1CDBD;
+Reference = C15;
+ValeurCmp = 150pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A1CC37;
+Reference = C16;
+ValeurCmp = 150pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A1B984;
+Reference = C17;
+ValeurCmp = 470pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A198C3;
+Reference = C18;
+ValeurCmp = 150pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A63AFC;
+Reference = C19;
+ValeurCmp = 150pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A171E5;
+Reference = C20;
+ValeurCmp = 1800pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A5782A;
+Reference = C21;
+ValeurCmp = DNI;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A56D23;
+Reference = C22;
+ValeurCmp = DNI;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A55D8D;
+Reference = C23;
+ValeurCmp = DNI;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A171CE;
+Reference = C24;
+ValeurCmp = 150pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/5496A441;
+Reference = C25;
+ValeurCmp = 150pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A171DA;
+Reference = C26;
+ValeurCmp = 1800pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A1CD93;
+Reference = C27;
+ValeurCmp = 270pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A1CC0D;
+Reference = C28;
+ValeurCmp = 560pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A1B954;
+Reference = C29;
+ValeurCmp = 1000pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A15271;
+Reference = C30;
+ValeurCmp = 3300pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/5496A443;
+Reference = C31;
+ValeurCmp = 560pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A57ACF;
+Reference = C32;
+ValeurCmp = DNI;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A56D84;
+Reference = C33;
+ValeurCmp = DNI;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A561C5;
+Reference = C34;
+ValeurCmp = DNI;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/5496A437;
+Reference = C35;
+ValeurCmp = 220pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/5496A445;
+Reference = C36;
+ValeurCmp = 150pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/5496A43B;
+Reference = C37;
+ValeurCmp = 3300pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A1CD9F;
+Reference = C38;
+ValeurCmp = 150pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A1CC19;
+Reference = C39;
+ValeurCmp = 150pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A1B966;
+Reference = C40;
+ValeurCmp = 470pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/5496A447;
+Reference = C41;
+ValeurCmp = 150pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A63C5E;
+Reference = C42;
+ValeurCmp = 150pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /549F2C74/552FE933;
+Reference = C43;
+ValeurCmp = 156pf;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /549F2C74/552FE964;
+Reference = C44;
+ValeurCmp = 156pf;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /549F2C74/552FE99C;
+Reference = C45;
+ValeurCmp = 56pf;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /549F2C74/552FEBEE;
+Reference = C46;
+ValeurCmp = 6200pf;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /549F2C74/552FECBF;
+Reference = C47;
+ValeurCmp = 9100pf;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /549F2C74/552FED0D;
+Reference = C48;
+ValeurCmp = 2000pf;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /549F2C74/552FEE1E;
+Reference = C49;
+ValeurCmp = 2000pf;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /549F2C74/552FED4A;
+Reference = C50;
+ValeurCmp = 2000pf;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /549F2C74/552FEE5E;
+Reference = C51;
+ValeurCmp = 1800pf;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54ABE597;
+Reference = C80;
+ValeurCmp = 150pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54ABE696;
+Reference = C81;
+ValeurCmp = 150pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54BBBF4C;
+Reference = C82;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D64DC9;
+Reference = C87;
+ValeurCmp = 1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D8CF54;
+Reference = C88;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D8CF9D;
+Reference = C89;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D8D011;
+Reference = C90;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54D8E8FD;
+Reference = C91;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5519D96F;
+Reference = C96;
+ValeurCmp = 1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EB7363;
+Reference = D18;
+ValeurCmp = RED LED (PTT);
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54962C02;
+Reference = K1;
+ValeurCmp = D3002;
+IdModule  = HERMESLITE:D3002;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/5496A471;
+Reference = K2;
+ValeurCmp = D3002;
+IdModule  = HERMESLITE:D3002;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/5496A472;
+Reference = K3;
+ValeurCmp = D3002;
+IdModule  = HERMESLITE:D3002;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/5496A473;
+Reference = K4;
+ValeurCmp = D3002;
+IdModule  = HERMESLITE:D3002;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/5496A474;
+Reference = K5;
+ValeurCmp = D3002;
+IdModule  = HERMESLITE:D3002;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/5496A475;
+Reference = K6;
+ValeurCmp = D3002;
+IdModule  = HERMESLITE:D3002;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54BFE652;
+Reference = K7;
+ValeurCmp = D3002;
+IdModule  = HERMESLITE:D3002;
+EndCmp
+
+BeginCmp
+TimeStamp = /54975D04;
+Reference = L1;
+ValeurCmp = FT37-43 11T #26;
+IdModule  = Choke_Axial_ThroughHole:Choke_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A304C5;
+Reference = L2;
+ValeurCmp = 192nH;
+IdModule  = Choke_Toroid_ThroughHole:Choke_Toroid_6,5x13mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A30554;
+Reference = L3;
+ValeurCmp = 192nH;
+IdModule  = Choke_Toroid_ThroughHole:Choke_Toroid_6,5x13mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A1CD8D;
+Reference = L4;
+ValeurCmp = 240nH;
+IdModule  = Choke_Toroid_ThroughHole:Choke_Toroid_6,5x13mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A1CC07;
+Reference = L5;
+ValeurCmp = 300nH;
+IdModule  = Choke_Toroid_ThroughHole:Choke_Toroid_6,5x13mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A1B94E;
+Reference = L6;
+ValeurCmp = 430nH;
+IdModule  = Choke_Toroid_ThroughHole:Choke_Toroid_6,5x13mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A171D4;
+Reference = L7;
+ValeurCmp = 1.44uH;
+IdModule  = Choke_Toroid_ThroughHole:Choke_Toroid_6,5x13mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/5496A442;
+Reference = L8;
+ValeurCmp = 1.02uH;
+IdModule  = Choke_Toroid_ThroughHole:Choke_Toroid_6,5x13mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A1CD99;
+Reference = L9;
+ValeurCmp = 240nH;
+IdModule  = Choke_Toroid_ThroughHole:Choke_Toroid_6,5x13mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A1CC13;
+Reference = L10;
+ValeurCmp = 300nH;
+IdModule  = Choke_Toroid_ThroughHole:Choke_Toroid_6,5x13mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54A1B960;
+Reference = L11;
+ValeurCmp = 430nH;
+IdModule  = Choke_Toroid_ThroughHole:Choke_Toroid_6,5x13mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/5496A43A;
+Reference = L12;
+ValeurCmp = 2.92uH;
+IdModule  = Choke_Toroid_ThroughHole:Choke_Toroid_6,5x13mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/5496A446;
+Reference = L13;
+ValeurCmp = 1.02uH;
+IdModule  = Choke_Toroid_ThroughHole:Choke_Toroid_6,5x13mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /549F2C74/552FE8E2;
+Reference = L14;
+ValeurCmp = 330nH;
+IdModule  = HERMESLITE:Choke_SMD_1206_Standard;
+EndCmp
+
+BeginCmp
+TimeStamp = /549F2C74/552FE9D7;
+Reference = L15;
+ValeurCmp = 400nH;
+IdModule  = HERMESLITE:Choke_SMD_1206_Standard;
+EndCmp
+
+BeginCmp
+TimeStamp = /549F2C74/552FEA23;
+Reference = L16;
+ValeurCmp = 300nH;
+IdModule  = HERMESLITE:Choke_SMD_1206_Standard;
+EndCmp
+
+BeginCmp
+TimeStamp = /549F2C74/552FEC44;
+Reference = L17;
+ValeurCmp = 4.9uH;
+IdModule  = HERMESLITE:Choke_SMD_1206_Standard;
+EndCmp
+
+BeginCmp
+TimeStamp = /549F2C74/552FEDB3;
+Reference = L18;
+ValeurCmp = 6.724uH;
+IdModule  = HERMESLITE:Choke_SMD_1206_Standard;
+EndCmp
+
+BeginCmp
+TimeStamp = /549F2C74/552FEDEF;
+Reference = L19;
+ValeurCmp = 9.126uH;
+IdModule  = HERMESLITE:Choke_SMD_1206_Standard;
+EndCmp
+
+BeginCmp
+TimeStamp = /549207C5;
+Reference = P1;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /549F2C74/552FFA27;
+Reference = P2;
+ValeurCmp = CONN_02X01;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D61932;
+Reference = P3;
+ValeurCmp = External 12V-13.8V (OSTTC022162);
+IdModule  = Connect:AK300-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A54B0E;
+Reference = P4;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A07990;
+Reference = P5;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54D66FF2;
+Reference = P6;
+ValeurCmp = TX Filter Activate Jumper;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /55184657;
+Reference = P7;
+ValeurCmp = Control from MegaBasic;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x07;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D0D979;
+Reference = Q2;
+ValeurCmp = FDV301;
+IdModule  = HERMESLITE:SOT-23-GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /549CA53F;
+Reference = Q3;
+ValeurCmp = RD16HHF1;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Vertical_LargePads;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EB73BC;
+Reference = R2;
+ValeurCmp = 4.99k;
+IdModule  = HERMESLITE:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A2D14A;
+Reference = R5;
+ValeurCmp = 6.8;
+IdModule  = HERMESLITE:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5495ED3D;
+Reference = R6;
+ValeurCmp = 10k;
+IdModule  = HERMESLITE:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5495ED31;
+Reference = R10;
+ValeurCmp = 270;
+IdModule  = HERMESLITE:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A9E7B7;
+Reference = T2;
+ValeurCmp = OUT_TRANSF;
+IdModule  = HERMESLITE:OUT_TRANSF;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496A059/54C14768;
+Reference = U2;
+ValeurCmp = 74LS145;
+IdModule  = Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D62F05;
+Reference = U6;
+ValeurCmp = LP2951-50D;
+IdModule  = Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5495ED4A;
+Reference = VR1;
+ValeurCmp = 1k MT;
+IdModule  = Potentiometers:Potentiometer_Bourns_3296W_3-8Zoll_Inline_ScrewUp;
+EndCmp
+
+EndListe

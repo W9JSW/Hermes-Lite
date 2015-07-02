@@ -1,0 +1,584 @@
+Cmp-Mod V01 Created by Cvpcb (2014-10-27 BZR 5228)-product   date = 11/05/2015 07:47:31
+
+BeginCmp
+TimeStamp = /54ED3E64;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5443416A;
+Reference = C2;
+ValeurCmp = 0.1 uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /544344BB;
+Reference = C3;
+ValeurCmp = 0.1 uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54872F5F;
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547D4CF8;
+Reference = C5;
+ValeurCmp = C;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547D4D11;
+Reference = C6;
+ValeurCmp = C;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54872CD7;
+Reference = C7;
+ValeurCmp = 47uF 25V;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeD_EIA-7343_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /547D4D04;
+Reference = C8;
+ValeurCmp = C;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547D4D1D;
+Reference = C9;
+ValeurCmp = C;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547D487E;
+Reference = C10;
+ValeurCmp = C;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547D43ED;
+Reference = C11;
+ValeurCmp = C;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AEA33C;
+Reference = C12;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547D44ED;
+Reference = C13;
+ValeurCmp = C;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547D4975;
+Reference = C14;
+ValeurCmp = C;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547BF1D3;
+Reference = C15;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AE9C7C;
+Reference = C16;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AE82FE;
+Reference = C17;
+ValeurCmp = 1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55494F54;
+Reference = C18;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AEFAFD;
+Reference = C19;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AEFB8B;
+Reference = C20;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AEFBE0;
+Reference = C21;
+ValeurCmp = 4700pF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AEFE24;
+Reference = C22;
+ValeurCmp = 10uF 25V;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeC_EIA-6032_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5549673F;
+Reference = C23;
+ValeurCmp = 0.01uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55496574;
+Reference = C24;
+ValeurCmp = 0.01uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /554969C9;
+Reference = C25;
+ValeurCmp = 0.01uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B3F199;
+Reference = C26;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5549718D;
+Reference = C27;
+ValeurCmp = 0.01uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B3D855;
+Reference = C28;
+ValeurCmp = 1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B52D87;
+Reference = C29;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D82DF6;
+Reference = C30;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D82BD4;
+Reference = C31;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /554E53AA;
+Reference = C32;
+ValeurCmp = 0.1uF;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5550A8D3;
+Reference = C33;
+ValeurCmp = DNI;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5550BD1F;
+Reference = C34;
+ValeurCmp = DNI;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5550BDC7;
+Reference = C35;
+ValeurCmp = DNI;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5550BC1D;
+Reference = C36;
+ValeurCmp = DNI;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5550B751;
+Reference = C37;
+ValeurCmp = DNI;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5550AD50;
+Reference = C38;
+ValeurCmp = DNI;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54430BA6;
+Reference = CN1;
+ValeurCmp = EDGE;
+IdModule  = HERMESLITE:EDGE;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E8AC8C;
+Reference = D1;
+ValeurCmp = YEL LED (Band1);
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E899BF;
+Reference = D2;
+ValeurCmp = RED LED (PTT);
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E8AC32;
+Reference = D3;
+ValeurCmp = GRN LED (PWR ON);
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A64D1;
+Reference = D4;
+ValeurCmp = DIODESCH2;
+IdModule  = HERMESLITE:SOD323;
+EndCmp
+
+BeginCmp
+TimeStamp = /54434516;
+Reference = FB1;
+ValeurCmp = FB;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AF37A9;
+Reference = K1;
+ValeurCmp = D3002;
+IdModule  = HERMESLITE:D3002;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AF7B3F;
+Reference = K2;
+ValeurCmp = D3002;
+IdModule  = HERMESLITE:D3002;
+EndCmp
+
+BeginCmp
+TimeStamp = /547D4CFE;
+Reference = L1;
+ValeurCmp = INDUCTOR;
+IdModule  = Choke_Toroid_ThroughHole:Choke_Toroid_6,5x13mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /547D4D17;
+Reference = L2;
+ValeurCmp = INDUCTOR;
+IdModule  = Choke_Toroid_ThroughHole:Choke_Toroid_6,5x13mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /547D4CF1;
+Reference = L3;
+ValeurCmp = INDUCTOR;
+IdModule  = Choke_Toroid_ThroughHole:Choke_Toroid_6,5x13mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /547D4D0B;
+Reference = L4;
+ValeurCmp = INDUCTOR;
+IdModule  = Choke_Toroid_ThroughHole:Choke_Toroid_6,5x13mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /547D490A;
+Reference = L5;
+ValeurCmp = INDUCTOR;
+IdModule  = Choke_Toroid_ThroughHole:Choke_Toroid_6,5x13mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /547D4474;
+Reference = L6;
+ValeurCmp = INDUCTOR;
+IdModule  = Choke_Toroid_ThroughHole:Choke_Toroid_6,5x13mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /547D41C7;
+Reference = L7;
+ValeurCmp = INDUCTOR;
+IdModule  = Choke_Toroid_ThroughHole:Choke_Toroid_6,5x13mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /547D4686;
+Reference = L8;
+ValeurCmp = INDUCTOR;
+IdModule  = Choke_Toroid_ThroughHole:Choke_Toroid_6,5x13mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AEF860;
+Reference = L10;
+ValeurCmp = FT37-43 11T #26;
+IdModule  = Choke_Toroid_ThroughHole:Choke_Toroid_horizontal_Diameter3-5mm_Amidon-T12;
+EndCmp
+
+BeginCmp
+TimeStamp = /547CC8B6;
+Reference = P1;
+ValeurCmp = BNC;
+IdModule  = HERMESLITE:BNCRA;
+EndCmp
+
+BeginCmp
+TimeStamp = /554E215A;
+Reference = P2;
+ValeurCmp = VFWD;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /550BDA20;
+Reference = P3;
+ValeurCmp = Ext PTT;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /550EC103;
+Reference = P4;
+ValeurCmp = 12-13.8v;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /55255C58;
+Reference = Q1;
+ValeurCmp = FDV301;
+IdModule  = HERMESLITE:SOT-23-GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /55256F77;
+Reference = Q2;
+ValeurCmp = FDV301;
+IdModule  = HERMESLITE:SOT-23-GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AE9D92;
+Reference = Q3;
+ValeurCmp = RD16HHF1;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D646FF;
+Reference = R1;
+ValeurCmp = 499;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D658FB;
+Reference = R2;
+ValeurCmp = 499;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E8B399;
+Reference = R3;
+ValeurCmp = 4.99k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5443441E;
+Reference = R4;
+ValeurCmp = 0;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AE9C13;
+Reference = R5;
+ValeurCmp = 6.8;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /547BF275;
+Reference = R6;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AE9CEC;
+Reference = R7;
+ValeurCmp = 270;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CC9D6A;
+Reference = R8;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E8B2ED;
+Reference = R9;
+ValeurCmp = 4.99k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B1B29F;
+Reference = R10;
+ValeurCmp = 270;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B1AF90;
+Reference = R11;
+ValeurCmp = 18;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B1B0A6;
+Reference = R12;
+ValeurCmp = 270;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E8B1B0;
+Reference = R13;
+ValeurCmp = 4.99k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /550BE620;
+Reference = R14;
+ValeurCmp = 4.99k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55258760;
+Reference = R15;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /552566EA;
+Reference = R16;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54433FF8;
+Reference = T2;
+ValeurCmp = 8:1;
+IdModule  = HERMESLITE:TRANSF;
+EndCmp
+
+BeginCmp
+TimeStamp = /54434023;
+Reference = T3;
+ValeurCmp = 4:1;
+IdModule  = HERMESLITE:TRANSF;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AEDCFD;
+Reference = T4;
+ValeurCmp = OUT_TRANSF;
+IdModule  = HERMESLITE:OUT_TRANSF;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AE7FBE;
+Reference = U1;
+ValeurCmp = LP2951-50D;
+IdModule  = Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AEA420;
+Reference = VR1;
+ValeurCmp = 1k MT;
+IdModule  = Potentiometers:Potentiometer_Bourns_3296W_3-8Zoll_Inline_ScrewUp;
+EndCmp
+
+EndListe
