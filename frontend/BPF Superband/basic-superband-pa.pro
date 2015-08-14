@@ -1,4 +1,4 @@
-update=13/06/2015 08:43:01
+update=27/07/2015 07:42:43
 version=1
 last_client=kicad
 [cvpcb]
@@ -43,19 +43,6 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=hermeslite
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=PcbnewAdvanced
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=50
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -76,3 +63,16 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=PcbnewAdvanced
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=50

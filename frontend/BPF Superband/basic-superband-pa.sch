@@ -178,9 +178,9 @@ F 3 "" H 3100 4200 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 4000 3600 0    60   ~ 0
-6T bifilar\n4T\nBN-61-2402
+6T bifilar\n4T\nBN-43-2402
 Text Notes 4500 3050 0    60   ~ 0
-4T bifilar\n6T\nBN-61-2402
+4T bifilar\n6T\nBN-43-2402
 $Comp
 L C C15
 U 1 1 547BF1D3
@@ -1775,12 +1775,12 @@ NoConn ~ 1750 3000
 $Comp
 L CONN_02X01 P2
 U 1 1 554E215A
-P 5500 2550
-F 0 "P2" V 5500 2450 50  0000 C CNN
-F 1 "VFWD" H 5500 2650 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x02" H 5500 1350 60  0001 C CNN
-F 3 "" H 5500 1350 60  0000 C CNN
-	1    5500 2550
+P 5400 2500
+F 0 "P2" V 5400 2400 50  0000 C CNN
+F 1 "VFWD" H 5400 2600 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x02" H 5400 1300 60  0001 C CNN
+F 3 "" H 5400 1300 60  0000 C CNN
+	1    5400 2500
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
@@ -1788,38 +1788,18 @@ Wire Wire Line
 Connection ~ 5950 2700
 Connection ~ 6350 2350
 Connection ~ 8650 1150
-$Comp
-L C C32
-U 1 1 554E53AA
-P 5400 2200
-F 0 "C32" V 5300 2000 40  0000 L CNN
-F 1 "0.1uF" V 5500 1950 40  0000 L CNN
-F 2 "HERMESLITE:C_0805" H 5438 2050 30  0001 C CNN
-F 3 "" H 5400 2200 60  0000 C CNN
-	1    5400 2200
-	0    1    1    0   
-$EndComp
 Wire Wire Line
 	6250 2950 6250 2200
 Wire Wire Line
 	6250 2200 6150 2200
 Wire Wire Line
-	5600 2200 5650 2200
-Wire Wire Line
-	5600 2200 5600 2250
-Wire Wire Line
-	5600 2250 5550 2250
-Wire Wire Line
-	5550 2250 5550 2300
-Wire Wire Line
-	5550 2300 5500 2300
+	5200 2200 5650 2200
 Wire Wire Line
 	5200 2600 5200 2800
 Wire Wire Line
 	5200 2800 5800 2800
 Wire Wire Line
 	5650 2800 5650 2700
-Connection ~ 5500 2800
 Wire Wire Line
 	5800 2800 5800 2700
 Wire Wire Line
@@ -1831,4 +1811,10 @@ Wire Wire Line
 	4700 7350 4700 7150
 Connection ~ 4700 7350
 Connection ~ 4700 7750
+Wire Wire Line
+	5400 2750 5400 2800
+Connection ~ 5400 2800
+Wire Wire Line
+	5400 2250 5400 2200
+Connection ~ 5400 2200
 $EndSCHEMATC
