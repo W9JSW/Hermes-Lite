@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4028
+D Decoder 4 to 10 lines
+K CMOS DECOD DECOD10
+$ENDCMP
+#
+$CMP 4504
+D Decoder 4 to 10 lines
+K CMOS DECOD DECOD10
+$ENDCMP
+#
+$CMP MOSFET_N
+F transistors/mos/*.*
+$ENDCMP
+#
+$CMP RD16HHF1
+F transistors/mos/*.*
+$ENDCMP
+#
+#End Doc Library

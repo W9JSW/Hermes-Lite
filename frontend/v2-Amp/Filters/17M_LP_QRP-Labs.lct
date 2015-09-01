@@ -1,0 +1,39 @@
+Elsie circuit file 712073300
+QRP Labs 17M Low Pass Filter
+20/08/2015 3:00:32 a.m. 
+* Added information:
+ 
+* Family, order, stages, topology, Cauer:
+ 11  3  7  0 
+* Width, center, Fstop normalized:
+ 0  0  0 
+* Apass, Astop:
+ 0  0 
+* Rsource, Rload, Rratio, Rstandard:
+ 50  50  0  50 
+* Qind, Qcap:
+ 150  1000 
+* Gj, Hj:
+ 0  0 
+ 0  0 
+ 0  0 
+* Element type, L, Ltolerance, C, Ctolerance
+ 4  0  0  1E-10  0 
+ 1  5.48E-07  0  0  0 
+ 4  0  0  2.7E-10  0 
+ 1  6.68E-07  0  0  0 
+ 4  0  0  2.7E-10  0 
+ 1  5.48E-07  0  0  0 
+ 4  0  0  1E-10  0 
+* Lin or log, Fstart, Fstop, Fstep or NrIntervals:
+ 2  1E+07  1E+08  1000 
+* Graph scales:
+-60  0  0  1.2E-07  4  120  8  6 
+* Limits Y/N:
+N
+* Markers Y/N:
+Y
+* Marker frequencies:
+ 1.4E+07  1.8E+07  2.8E+07  3.6E+07  5.4E+07 
+* M-derived zeros Y/N:
+N
