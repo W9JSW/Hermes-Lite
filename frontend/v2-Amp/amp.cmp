@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-10-27 BZR 5228)-product   date = 01/09/2015 09:44:23
+Cmp-Mod V01 Created by Cvpcb (2014-10-27 BZR 5228)-product   date = 04/09/2015 15:45:54
 
 BeginCmp
 TimeStamp = /55346B73;
@@ -66,7 +66,7 @@ EndCmp
 BeginCmp
 TimeStamp = /54B3D855;
 Reference = C10;
-ValeurCmp = 10uF;
+ValeurCmp = 1uF;
 IdModule  = HERMESLITE:C_0805;
 EndCmp
 
@@ -589,7 +589,7 @@ IdModule  = HERMESLITE:C_0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /55E484B3;
+TimeStamp = /55EA0F85;
 Reference = C85;
 ValeurCmp = 0.1uF;
 IdModule  = HERMESLITE:C_0805;
@@ -904,10 +904,10 @@ IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
 EndCmp
 
 BeginCmp
-TimeStamp = /55E46016;
+TimeStamp = /55E99EC8;
 Reference = Q1;
-ValeurCmp = 2N3688A;
-IdModule  = HERMESLITE:TO39EBC;
+ValeurCmp = PZT2222A-T;
+IdModule  = TO_SOT_Packages_SMD:SOT-223;
 EndCmp
 
 BeginCmp
@@ -976,7 +976,7 @@ EndCmp
 BeginCmp
 TimeStamp = /55E46597;
 Reference = R9;
-ValeurCmp = 2k;
+ValeurCmp = 1k;
 IdModule  = Resistors_SMD:R_0805_HandSoldering;
 EndCmp
 
@@ -990,7 +990,7 @@ EndCmp
 BeginCmp
 TimeStamp = /55E46614;
 Reference = R11;
-ValeurCmp = 470;
+ValeurCmp = 1k;
 IdModule  = Resistors_SMD:R_0805_HandSoldering;
 EndCmp
 
@@ -998,13 +998,6 @@ BeginCmp
 TimeStamp = /54B1B0A6;
 Reference = R12;
 ValeurCmp = 270;
-IdModule  = Resistors_SMD:R_0805_HandSoldering;
-EndCmp
-
-BeginCmp
-TimeStamp = /55E4824A;
-Reference = R13;
-ValeurCmp = 51;
 IdModule  = Resistors_SMD:R_0805_HandSoldering;
 EndCmp
 
@@ -1039,7 +1032,7 @@ EndCmp
 BeginCmp
 TimeStamp = /55E483BD;
 Reference = R18;
-ValeurCmp = 4.7;
+ValeurCmp = 47;
 IdModule  = Resistors_SMD:R_0805_HandSoldering;
 EndCmp
 
@@ -1079,10 +1072,10 @@ IdModule  = HERMESLITE:OUT_TRANSF;
 EndCmp
 
 BeginCmp
-TimeStamp = /55E46E76;
+TimeStamp = /55EA135A;
 Reference = T2;
-ValeurCmp = OUT_TRANSF;
-IdModule  = Pin_Headers:Pin_Header_Straight_2x02;
+ValeurCmp = TRANSFO2;
+IdModule  = HERMESLITE:TRANSF;
 EndCmp
 
 BeginCmp
