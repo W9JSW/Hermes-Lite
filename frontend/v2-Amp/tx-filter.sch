@@ -37,7 +37,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 2
 Title "Hermes-Lite pre-v2 5W Power Amplifier"
-Date "27 August 2015"
+Date "06 September 2015"
 Rev "1.0"
 Comp "SofterHardware"
 Comment1 "W9JSW"

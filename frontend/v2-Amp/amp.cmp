@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-10-27 BZR 5228)-product   date = 04/09/2015 15:45:54
+Cmp-Mod V01 Created by Cvpcb (2014-10-27 BZR 5228)-product   date = 06/09/2015 06:17:20
 
 BeginCmp
 TimeStamp = /55346B73;
@@ -906,7 +906,7 @@ EndCmp
 BeginCmp
 TimeStamp = /55E99EC8;
 Reference = Q1;
-ValeurCmp = PZT2222A-T;
+ValeurCmp = PZT2222A;
 IdModule  = TO_SOT_Packages_SMD:SOT-223;
 EndCmp
 
@@ -1002,6 +1002,13 @@ IdModule  = Resistors_SMD:R_0805_HandSoldering;
 EndCmp
 
 BeginCmp
+TimeStamp = /55EC27CC;
+Reference = R13;
+ValeurCmp = 4.7;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
 TimeStamp = /55E09ECA;
 Reference = R14;
 ValeurCmp = 10k;
@@ -1074,7 +1081,7 @@ EndCmp
 BeginCmp
 TimeStamp = /55EA135A;
 Reference = T2;
-ValeurCmp = TRANSFO2;
+ValeurCmp = BN-43-2402;
 IdModule  = HERMESLITE:TRANSF;
 EndCmp
 

@@ -408,8 +408,8 @@ F 3 "" H 8350 850 60  0000 C CNN
 	1    8350 850 
 	1    0    0    -1  
 $EndComp
-Text Notes 3950 3600 0    50   ~ 0
-Attenuator (3db example) needed \nto insure that input impedance\nof Norton amplifier is 50 ohms.
+Text Notes 3450 4650 0    50   ~ 0
+Attenuator (3db example) needed \nto ensure that input impedance\nof Norton amplifier is 50 ohms.
 $Comp
 L INDUCTOR L1
 U 1 1 5532DE98
@@ -1253,7 +1253,7 @@ L C C12
 U 1 1 55E46682
 P 1650 3900
 F 0 "C12" V 1700 3950 40  0000 L CNN
-F 1 "0.1uF" H 1650 3800 40  0000 L CNN
+F 1 "0.1uF" V 1750 3650 40  0000 L CNN
 F 2 "HERMESLITE:C_0805" H 1688 3750 30  0001 C CNN
 F 3 "" H 1650 3900 60  0000 C CNN
 	1    1650 3900
@@ -1265,7 +1265,7 @@ L C C86
 U 1 1 55E4723F
 P 3750 3700
 F 0 "C86" V 3800 3750 40  0000 L CNN
-F 1 "0.1uF" H 3750 3600 40  0000 L CNN
+F 1 "0.1uF" V 3850 3450 40  0000 L CNN
 F 2 "HERMESLITE:C_0805" H 3788 3550 30  0001 C CNN
 F 3 "" H 3750 3700 60  0000 C CNN
 	1    3750 3700
@@ -1407,7 +1407,7 @@ L C C85
 U 1 1 55EA0F85
 P 2050 4750
 F 0 "C85" V 2100 4800 40  0000 L CNN
-F 1 "0.1uF" H 2050 4650 40  0000 L CNN
+F 1 "0.1uF" H 1850 4650 40  0000 L CNN
 F 2 "HERMESLITE:C_0805" H 2088 4600 30  0001 C CNN
 F 3 "" H 2050 4750 60  0000 C CNN
 	1    2050 4750
@@ -1462,13 +1462,15 @@ Wire Wire Line
 	2750 4250 2750 4800
 Wire Wire Line
 	2750 4800 2550 4800
-Connection ~ 2800 3950
-Connection ~ 3500 3550
-Connection ~ 3500 4150
+Connection ~ 3000 3550
+Connection ~ 3300 3350
+Connection ~ 3300 3850
 Text Notes 2750 3750 0    50   ~ 0
 1T #30\n
-Text Notes 3350 3950 0    50   ~ 0
+Text Notes 3350 4000 0    50   ~ 0
 5T #30\n
-Text Notes 3350 3450 0    50   ~ 0
+Text Notes 3350 3500 0    50   ~ 0
 3T #30\n
+Text Notes 3600 5250 0    50   ~ 0
+Atten   R8/12     R10\n  dB    Ohms    Ohms\n   1      910      5.6\n   2      430      12\n   3      270      18\n   4      220      24\n   5      180      30
 $EndSCHEMATC
