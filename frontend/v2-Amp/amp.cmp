@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-10-27 BZR 5228)-product   date = 06/09/2015 06:17:20
+Cmp-Mod V01 Created by Cvpcb (2014-10-27 BZR 5228)-product   date = 06/09/2015 14:38:39
 
 BeginCmp
 TimeStamp = /55346B73;
@@ -610,6 +610,20 @@ IdModule  = HERMESLITE:C_0805;
 EndCmp
 
 BeginCmp
+TimeStamp = /55ECA6D8;
+Reference = C88;
+ValeurCmp = DNI;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55ECAAB4;
+Reference = C89;
+ValeurCmp = DNI;
+IdModule  = HERMESLITE:C_0805;
+EndCmp
+
+BeginCmp
 TimeStamp = /55CECCE8;
 Reference = K1;
 ValeurCmp = HK4100;
@@ -883,6 +897,13 @@ IdModule  = Pin_Headers:Pin_Header_Angled_2x06;
 EndCmp
 
 BeginCmp
+TimeStamp = /55ECA0E3;
+Reference = P3;
+ValeurCmp = BNC;
+IdModule  = HERMESLITE:CON-SMA-EDGE;
+EndCmp
+
+BeginCmp
 TimeStamp = /55CE52FF;
 Reference = P4;
 ValeurCmp = TX-IN;
@@ -901,6 +922,13 @@ TimeStamp = /550EC103;
 Reference = P6;
 ValeurCmp = 12-13.8v;
 IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EC9B26;
+Reference = P7;
+ValeurCmp = CONN_01X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
 EndCmp
 
 BeginCmp
