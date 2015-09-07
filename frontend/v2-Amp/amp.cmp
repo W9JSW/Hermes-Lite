@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-10-27 BZR 5228)-product   date = 06/09/2015 14:38:39
+Cmp-Mod V01 Created by Cvpcb (2014-10-27 BZR 5228)-product   date = 06/09/2015 17:10:42
 
 BeginCmp
 TimeStamp = /55346B73;
@@ -897,10 +897,10 @@ IdModule  = Pin_Headers:Pin_Header_Angled_2x06;
 EndCmp
 
 BeginCmp
-TimeStamp = /55ECA0E3;
+TimeStamp = /55ECC21D;
 Reference = P3;
-ValeurCmp = BNC;
-IdModule  = HERMESLITE:CON-SMA-EDGE;
+ValeurCmp = Tap Enable;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
 EndCmp
 
 BeginCmp
@@ -927,7 +927,7 @@ EndCmp
 BeginCmp
 TimeStamp = /55EC9B26;
 Reference = P7;
-ValeurCmp = CONN_01X03;
+ValeurCmp = Tap Source;
 IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
 EndCmp
 
