@@ -1,0 +1,444 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:hermeslite
+LIBS:j16ext-cache
+EELAYER 25 0
+EELAYER END
+$Descr USLetter 11000 8500
+encoding utf-8
+Sheet 1 1
+Title "WaveShare Swizzle Board"
+Date "21 Oct 2014"
+Rev "0.9"
+Comp "SofterHardware"
+Comment1 "KF7O"
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L CONN_02X07 P1
+U 1 1 56685206
+P 3050 4750
+F 0 "P1" H 3050 5150 50  0000 C CNN
+F 1 "CONN_02X07" V 3050 4750 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x07" H 3050 3550 60  0001 C CNN
+F 3 "" H 3050 3550 60  0000 C CNN
+	1    3050 4750
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_02X07 P2
+U 1 1 56685263
+P 5800 4750
+F 0 "P2" H 5800 5150 50  0000 C CNN
+F 1 "CONN_02X07" V 5800 4750 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x07" H 5800 3550 60  0001 C CNN
+F 3 "" H 5800 3550 60  0000 C CNN
+	1    5800 4750
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 4450 5550 4450
+Wire Wire Line
+	3300 4550 5550 4550
+Wire Wire Line
+	3300 4650 5550 4650
+Wire Wire Line
+	3300 4750 5550 4750
+Wire Wire Line
+	3300 4850 5550 4850
+Wire Wire Line
+	3300 4950 5550 4950
+Wire Wire Line
+	3300 5050 5550 5050
+Wire Wire Line
+	2800 4450 2750 4450
+Wire Wire Line
+	6100 4450 6050 4450
+Wire Wire Line
+	2700 4550 2800 4550
+Wire Wire Line
+	6150 4550 6050 4550
+Wire Wire Line
+	2800 4650 2650 4650
+Wire Wire Line
+	6200 4650 6050 4650
+Wire Wire Line
+	2800 5050 2750 5050
+Wire Wire Line
+	2750 5050 2750 5150
+Wire Wire Line
+	2750 5150 6100 5150
+Wire Wire Line
+	6100 5150 6100 5050
+Wire Wire Line
+	6100 5050 6050 5050
+Wire Wire Line
+	2800 4950 2700 4950
+Wire Wire Line
+	2700 4950 2700 5250
+Wire Wire Line
+	2700 5250 6150 5250
+Wire Wire Line
+	6150 5250 6150 4950
+Wire Wire Line
+	6150 4950 6050 4950
+Wire Wire Line
+	2800 4850 2650 4850
+Wire Wire Line
+	2650 4850 2650 5350
+Wire Wire Line
+	2650 5350 6200 5350
+Wire Wire Line
+	6200 5350 6200 4850
+Wire Wire Line
+	6200 4850 6050 4850
+Wire Wire Line
+	2800 4750 2600 4750
+Wire Wire Line
+	2600 4750 2600 5450
+Wire Wire Line
+	2600 5450 6250 5450
+Wire Wire Line
+	6250 5450 6250 4750
+Wire Wire Line
+	6250 4750 6050 4750
+Wire Wire Line
+	2750 4450 2750 4350
+Wire Wire Line
+	2750 4350 6100 4350
+Wire Wire Line
+	6100 4350 6100 4450
+Wire Wire Line
+	2700 4550 2700 4250
+Wire Wire Line
+	2700 4250 6150 4250
+Wire Wire Line
+	6150 4250 6150 4550
+Wire Wire Line
+	6200 4650 6200 4150
+Wire Wire Line
+	6200 4150 2650 4150
+Wire Wire Line
+	2650 4150 2650 4650
+$Comp
+L ULN2803 U3
+U 1 1 56685D15
+P 7200 3250
+F 0 "U3" H 7200 2700 50  0000 C CNN
+F 1 "ULN2803" H 7200 3800 50  0000 C CNN
+F 2 "Housings_SOIC:SOIC-18_7.5x11.6mm_Pitch1.27mm" H 7200 3250 50  0001 C CNN
+F 3 "DOCUMENTATION" H 7200 3250 50  0001 C CNN
+	1    7200 3250
+	1    0    0    -1  
+$EndComp
+Connection ~ 4650 4750
+Wire Wire Line
+	4550 2050 4550 4950
+Connection ~ 4550 4950
+Wire Wire Line
+	4450 2050 4450 5250
+Connection ~ 4450 5250
+Wire Wire Line
+	4350 2050 4350 5350
+Connection ~ 4350 5350
+Wire Wire Line
+	4250 2050 4250 5450
+Connection ~ 4250 5450
+Wire Wire Line
+	4150 2050 4150 4150
+Connection ~ 4150 4150
+Wire Wire Line
+	4050 2050 4050 4250
+Connection ~ 4050 4250
+Wire Wire Line
+	3950 2050 3950 4350
+Connection ~ 3950 4350
+$Comp
+L CONN_01X10 P3
+U 1 1 56686202
+P 8300 3300
+F 0 "P3" H 8300 3850 50  0000 C CNN
+F 1 "CONN_01X10" H 8400 2750 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_1x10" H 8300 3300 60  0001 C CNN
+F 3 "" H 8300 3300 60  0000 C CNN
+	1    8300 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4049 U1
+U 6 1 56686586
+P 5800 2650
+F 0 "U1" H 5995 2765 60  0000 C CNN
+F 1 "4049" H 5990 2525 60  0000 C CNN
+F 2 "Housings_SOIC:SOIC-16_7.5x10.3mm_Pitch1.27mm" H 5800 2650 60  0001 C CNN
+F 3 "" H 5800 2650 60  0000 C CNN
+	6    5800 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4049 U1
+U 2 1 566865C7
+P 5200 2850
+F 0 "U1" H 5395 2965 60  0000 C CNN
+F 1 "4049" H 5390 2725 60  0000 C CNN
+F 2 "Housings_SOIC:SOIC-16_7.5x10.3mm_Pitch1.27mm" H 5200 2850 60  0001 C CNN
+F 3 "" H 5200 2850 60  0000 C CNN
+	2    5200 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4049 U2
+U 1 1 566865FA
+P 5800 3050
+F 0 "U2" H 5995 3165 60  0000 C CNN
+F 1 "4049" H 5990 2925 60  0000 C CNN
+F 2 "Housings_SOIC:SOIC-16_7.5x10.3mm_Pitch1.27mm" H 5800 3050 60  0001 C CNN
+F 3 "" H 5800 3050 60  0000 C CNN
+	1    5800 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4049 U1
+U 3 1 56686625
+P 5200 3250
+F 0 "U1" H 5395 3365 60  0000 C CNN
+F 1 "4049" H 5390 3125 60  0000 C CNN
+F 2 "Housings_SOIC:SOIC-16_7.5x10.3mm_Pitch1.27mm" H 5200 3250 60  0001 C CNN
+F 3 "" H 5200 3250 60  0000 C CNN
+	3    5200 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4049 U2
+U 2 1 5668664A
+P 5800 3450
+F 0 "U2" H 5995 3565 60  0000 C CNN
+F 1 "4049" H 5990 3325 60  0000 C CNN
+F 2 "Housings_SOIC:SOIC-16_7.5x10.3mm_Pitch1.27mm" H 5800 3450 60  0001 C CNN
+F 3 "" H 5800 3450 60  0000 C CNN
+	2    5800 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4049 U1
+U 4 1 56686679
+P 5200 3650
+F 0 "U1" H 5395 3765 60  0000 C CNN
+F 1 "4049" H 5390 3525 60  0000 C CNN
+F 2 "Housings_SOIC:SOIC-16_7.5x10.3mm_Pitch1.27mm" H 5200 3650 60  0001 C CNN
+F 3 "" H 5200 3650 60  0000 C CNN
+	4    5200 3650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4650 2050 4650 4750
+Wire Wire Line
+	4650 3650 4750 3650
+Wire Wire Line
+	4550 3450 5350 3450
+Wire Wire Line
+	4450 3250 4750 3250
+Wire Wire Line
+	4350 3050 5350 3050
+Wire Wire Line
+	4250 2850 4750 2850
+Wire Wire Line
+	4150 2650 5350 2650
+Wire Wire Line
+	5650 3650 6500 3650
+Wire Wire Line
+	6500 3650 6500 3550
+Wire Wire Line
+	6500 3550 6600 3550
+Wire Wire Line
+	6250 3450 6600 3450
+Wire Wire Line
+	5650 3250 6150 3250
+Wire Wire Line
+	6150 3250 6150 3350
+Wire Wire Line
+	6150 3350 6600 3350
+Wire Wire Line
+	6250 3050 6350 3050
+Wire Wire Line
+	6350 3050 6350 3250
+Wire Wire Line
+	6350 3250 6600 3250
+Wire Wire Line
+	5650 2850 6400 2850
+Wire Wire Line
+	6400 2850 6400 3150
+Wire Wire Line
+	6400 3150 6600 3150
+Wire Wire Line
+	6250 2650 6450 2650
+Wire Wire Line
+	6450 2650 6450 3050
+Wire Wire Line
+	6450 3050 6600 3050
+$Comp
+L 4049 U1
+U 1 1 56687100
+P 5200 2450
+F 0 "U1" H 5395 2565 60  0000 C CNN
+F 1 "4049" H 5390 2325 60  0000 C CNN
+F 2 "Housings_SOIC:SOIC-16_7.5x10.3mm_Pitch1.27mm" H 5200 2450 60  0001 C CNN
+F 3 "" H 5200 2450 60  0000 C CNN
+	1    5200 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4049 U1
+U 5 1 56687218
+P 5800 2250
+F 0 "U1" H 5995 2365 60  0000 C CNN
+F 1 "4049" H 5990 2125 60  0000 C CNN
+F 2 "Housings_SOIC:SOIC-16_7.5x10.3mm_Pitch1.27mm" H 5800 2250 60  0001 C CNN
+F 3 "" H 5800 2250 60  0000 C CNN
+	5    5800 2250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4050 2450 4750 2450
+Wire Wire Line
+	3950 2250 5350 2250
+Wire Wire Line
+	6600 2950 6500 2950
+Wire Wire Line
+	6500 2950 6500 2450
+Wire Wire Line
+	6500 2450 5650 2450
+Wire Wire Line
+	6250 2250 6550 2250
+Wire Wire Line
+	6550 2250 6550 2850
+Wire Wire Line
+	6550 2850 6600 2850
+Wire Wire Line
+	5300 3900 5300 4650
+Connection ~ 5300 4550
+Connection ~ 5300 4650
+Connection ~ 5300 4450
+Wire Wire Line
+	4950 3900 8100 3900
+Wire Wire Line
+	6550 3650 6550 4000
+Wire Wire Line
+	6550 3650 6600 3650
+Wire Wire Line
+	8100 3900 8100 3750
+Connection ~ 6550 3900
+$Comp
+L GND #PWR01
+U 1 1 5668764E
+P 6550 4000
+F 0 "#PWR01" H 6550 4000 30  0001 C CNN
+F 1 "GND" H 6550 3930 30  0001 C CNN
+F 2 "" H 6550 4000 60  0000 C CNN
+F 3 "" H 6550 4000 60  0000 C CNN
+	1    6550 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7800 2850 8100 2850
+Wire Wire Line
+	7800 2950 8100 2950
+Wire Wire Line
+	7800 3050 8100 3050
+Wire Wire Line
+	7800 3150 8100 3150
+Wire Wire Line
+	7800 3250 8100 3250
+Wire Wire Line
+	7800 3350 8100 3350
+Wire Wire Line
+	7800 3450 8100 3450
+Wire Wire Line
+	7800 3550 8100 3550
+Wire Wire Line
+	7800 3650 8100 3650
+$Comp
+L RR9 RR1
+U 1 1 56688620
+P 4350 1700
+F 0 "RR1" H 4400 2300 70  0000 C CNN
+F 1 "RR9" V 4380 1700 70  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_1x10" H 4350 1700 60  0001 C CNN
+F 3 "" H 4350 1700 60  0000 C CNN
+	1    4350 1700
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	4850 2050 7950 2050
+Wire Wire Line
+	7950 2050 7950 3650
+Connection ~ 7950 3650
+Connection ~ 3950 2250
+Connection ~ 4050 2450
+Connection ~ 4150 2650
+Connection ~ 4250 2850
+Connection ~ 4350 3050
+Connection ~ 4450 3250
+Connection ~ 4550 3450
+Connection ~ 4650 3650
+NoConn ~ 4750 2050
+Text Notes 8400 3800 0    65   ~ 0
+/Band6\n/Band5\n/Band4\n/Band3\n/Band2\n/Band1\n/Band0\n/PTT\nCommon\nGnd
+Text Notes 2150 4800 0    65   ~ 0
+Frontend\nHeader\n
+Text Notes 6300 4800 0    65   ~ 0
+PA\nHeader\n
+Wire Wire Line
+	5150 3550 5150 3500
+Wire Wire Line
+	5150 3500 4800 3500
+Wire Wire Line
+	4800 2200 4800 4850
+Connection ~ 4800 4850
+Wire Wire Line
+	5150 2350 5150 2200
+Wire Wire Line
+	5150 2200 4800 2200
+Connection ~ 4800 3500
+Wire Wire Line
+	5150 3750 5150 3900
+Connection ~ 5300 3900
+Wire Wire Line
+	5150 2550 5150 2600
+Wire Wire Line
+	5150 2600 4950 2600
+Wire Wire Line
+	4950 2600 4950 3900
+Connection ~ 5150 3900
+$EndSCHEMATC

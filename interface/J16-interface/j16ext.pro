@@ -1,4 +1,4 @@
-update=05/11/2015 11:04:32
+update=09/12/2015 13:50:33
 version=1
 last_client=kicad
 [cvpcb]
@@ -29,7 +29,17 @@ ModuleOutlineThickness=0.150000000000
 version=1
 [eeschema]
 version=1
-LibDir=C:/Users/John/OneDrive/Documents/Amateur Radio/Components/converted
+PageLayoutDescrFile=
+SubpartIdSeparator=0
+SubpartFirstId=65
+LibDir=
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -68,10 +78,10 @@ PageLayoutDescrFile=
 PlotDirectoryName=
 SubpartIdSeparator=0
 SubpartFirstId=65
-NetFmtName=PcbnewAdvanced
+NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 RptD_X=0
 RptD_Y=100
 RptLab=1
-LabSize=50
+LabSize=60
