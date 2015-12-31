@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:frontend-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -10,7 +11,6 @@ LIBS:cmos4000
 LIBS:adc-dac
 LIBS:memory
 LIBS:xilinx
-LIBS:special
 LIBS:microcontrollers
 LIBS:dsp
 LIBS:microchip
@@ -123,7 +123,7 @@ F 3 "" H 5300 5825 60  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L R R1
+L R-RESCUE-frontend R1
 U 1 1 5443441E
 P 3800 3800
 F 0 "R1" V 3800 3900 40  0000 C CNN
@@ -162,7 +162,7 @@ Wire Wire Line
 Connection ~ 5300 5550
 Connection ~ 5300 5950
 $Comp
-L GND #PWR01
+L GND-RESCUE-frontend #PWR01
 U 1 1 544349E4
 P 3800 4850
 F 0 "#PWR01" H 3800 4850 30  0001 C CNN
@@ -173,7 +173,7 @@ F 3 "" H 3800 4850 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR02
+L GND-RESCUE-frontend #PWR02
 U 1 1 544349F8
 P 3800 6350
 F 0 "#PWR02" H 3800 6350 30  0001 C CNN
@@ -184,7 +184,7 @@ F 3 "" H 3800 6350 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR03
+L GND-RESCUE-frontend #PWR03
 U 1 1 54434A20
 P 1200 6100
 F 0 "#PWR03" H 1200 6100 30  0001 C CNN
@@ -220,7 +220,7 @@ Wire Wire Line
 Wire Wire Line
 	2550 5400 3400 5400
 $Comp
-L GND #PWR04
+L GND-RESCUE-frontend #PWR04
 U 1 1 54434F94
 P 2700 6100
 F 0 "#PWR04" H 2700 6100 30  0001 C CNN
@@ -317,7 +317,7 @@ Wire Wire Line
 Wire Wire Line
 	9900 2150 9900 2200
 $Comp
-L GND #PWR07
+L GND-RESCUE-frontend #PWR07
 U 1 1 54DF8781
 P 9900 2200
 F 0 "#PWR07" H 9900 2200 30  0001 C CNN
@@ -389,7 +389,7 @@ F 3 "" H 9700 5000 60  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L GND #PWR09
+L GND-RESCUE-frontend #PWR09
 U 1 1 5516B151
 P 9700 6450
 F 0 "#PWR09" H 9700 6450 30  0001 C CNN
@@ -411,7 +411,7 @@ F 3 "" H 9700 3550 60  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L GND #PWR010
+L GND-RESCUE-frontend #PWR010
 U 1 1 5516B48F
 P 9700 5000
 F 0 "#PWR010" H 9700 5000 30  0001 C CNN
@@ -437,7 +437,7 @@ F 3 "" H 1250 2400 60  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L GND #PWR?
+L GND-RESCUE-frontend #PWR?
 U 1 1 55D2FB0E
 P 1500 2600
 F 0 "#PWR?" H 1500 2600 30  0001 C CNN
