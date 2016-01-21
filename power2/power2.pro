@@ -1,4 +1,4 @@
-update=19/12/2015 13:43:36
+update=05/01/2016 10:49:31
 version=1
 last_client=kicad
 [cvpcb]
@@ -28,19 +28,6 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=PcbnewAdvanced
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=50
 [eeschema]
 version=1
 LibDir=C:/Users/John/OneDrive/Documents/Amateur Radio/Components/converted
@@ -78,3 +65,13 @@ LibName30=contrib
 LibName31=valves
 LibName32=hermeslite
 LibName33=w_device
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=PcbnewAdvanced
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=50
