@@ -586,7 +586,7 @@ L INDUCTOR L7
 U 1 1 55CF3027
 P 3900 3500
 F 0 "L7" V 3850 3500 40  0000 C CNN
-F 1 "642.5uH" V 4000 3500 40  0000 C CNN
+F 1 "642.5nH" V 4000 3500 40  0000 C CNN
 F 2 "HERMESLITE:Choke_Toroid" H 3900 3500 60  0001 C CNN
 F 3 "" H 3900 3500 60  0000 C CNN
 	1    3900 3500
@@ -597,7 +597,7 @@ L INDUCTOR L13
 U 1 1 55CF302D
 P 4500 3500
 F 0 "L13" V 4450 3500 40  0000 C CNN
-F 1 "455uH" V 4600 3500 40  0000 C CNN
+F 1 "455nH" V 4600 3500 40  0000 C CNN
 F 2 "HERMESLITE:Choke_Toroid" H 4500 3500 60  0001 C CNN
 F 3 "" H 4500 3500 60  0000 C CNN
 	1    4500 3500
@@ -1386,11 +1386,11 @@ Text Notes 4400 4800 0    50   ~ 0
 Text Notes 4400 5700 0    50   ~ 0
 15M
 Text Notes 3750 1000 0    35   ~ 0
-31T T37-2 \n17in #26
-Text Notes 4950 1000 0    35   ~ 0
-31T T37-2 \n17in #26
-Text Notes 4350 1000 0    35   ~ 0
 33T T37-2 \n18in #26
+Text Notes 4950 1000 0    35   ~ 0
+33T T37-2 \n18in #26
+Text Notes 4350 1000 0    35   ~ 0
+35T T37-2 \n19in #26
 Text Notes 3750 1900 0    35   ~ 0
 24T T37-2 \n14in #26
 Text Notes 4350 1900 0    35   ~ 0
@@ -1398,11 +1398,11 @@ Text Notes 4350 1900 0    35   ~ 0
 Text Notes 4950 1900 0    35   ~ 0
 24T T37-2 \n14in #26
 Text Notes 3750 2800 0    35   ~ 0
-17T T37-2\n11in #26
+16T T37-2\n11in #26
 Text Notes 4350 2800 0    35   ~ 0
-13T T37-2\n9in  #26
+12T T37-2\n9in  #26
 Text Notes 4950 2800 0    35   ~ 0
-12T T37-2\n8in  #26
+11T T37-2\n8in  #26
 Text Notes 3750 3700 0    35   ~ 0
 13T T37-6\n8in #26
 Text Notes 4350 3700 0    35   ~ 0

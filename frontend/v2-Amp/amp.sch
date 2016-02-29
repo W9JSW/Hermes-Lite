@@ -524,7 +524,7 @@ Wire Wire Line
 	9200 1800 9400 1800
 Connection ~ 9400 2050
 Wire Wire Line
-	8450 850  8450 1250
+	8450 1250 8450 850 
 Connection ~ 8450 1250
 Wire Wire Line
 	8000 4000 8500 4000
@@ -757,9 +757,6 @@ Common
 Text Notes 3400 7550 2    50   ~ 0
 Hi-Z\nTap
 Connection ~ 5700 2600
-Wire Wire Line
-	2350 1750 2350 1800
-Connection ~ 2350 1800
 $Comp
 L C-RESCUE-amp C66
 U 1 1 55DF06D0
@@ -909,17 +906,14 @@ Hi-Z\nTap
 $Comp
 L R-RESCUE-amp R14
 U 1 1 55E09ECA
-P 2350 1500
-F 0 "R14" V 2450 1500 40  0000 C CNN
-F 1 "10k" V 2357 1501 40  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 2280 1500 30  0001 C CNN
-F 3 "" H 2350 1500 30  0000 C CNN
-	1    2350 1500
+P 3000 1500
+F 0 "R14" V 3100 1500 40  0000 C CNN
+F 1 "10k" V 3007 1501 40  0000 C CNN
+F 2 "Resistors_SMD:R_0805_HandSoldering" V 2930 1500 30  0001 C CNN
+F 3 "" H 3000 1500 30  0000 C CNN
+	1    3000 1500
 	-1   0    0    1   
 $EndComp
-Wire Wire Line
-	2150 1700 2150 1250
-Connection ~ 2350 1250
 Wire Wire Line
 	3650 1600 5700 1600
 Connection ~ 4350 1600
@@ -995,7 +989,7 @@ F 3 "" H 7500 2400 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	2150 1250 8800 1250
+	1600 1250 8800 1250
 $Comp
 L R-RESCUE-amp R9
 U 1 1 55E46597
@@ -1123,13 +1117,9 @@ Wire Wire Line
 Wire Wire Line
 	1600 2100 1900 2100
 Wire Wire Line
-	1600 2100 1600 1700
+	1600 1250 1600 2100
 Wire Wire Line
-	1600 1700 2150 1700
-Wire Wire Line
-	3250 1800 1500 1800
-Wire Wire Line
-	1500 1800 1500 2200
+	1500 1600 1500 2200
 Wire Wire Line
 	1500 2200 1900 2200
 Wire Wire Line
@@ -1142,21 +1132,8 @@ Connection ~ 1450 2500
 Wire Wire Line
 	1450 2300 1450 2650
 Wire Wire Line
-	1700 2000 1700 1900
-Wire Wire Line
-	1700 1900 3250 1900
+	1700 1750 1700 2000
 Connection ~ 1450 2400
-$Comp
-L CONN_02X06 P2
-U 1 1 55E5C678
-P 2150 2250
-F 0 "P2" H 2150 2600 50  0000 C CNN
-F 1 "CONN_02X06" H 2150 1900 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Angled_2x06" H 2150 1050 60  0001 C CNN
-F 3 "" H 2150 1050 60  0000 C CNN
-	1    2150 2250
-	-1   0    0    1   
-$EndComp
 Wire Wire Line
 	1700 2000 1900 2000
 $Comp
@@ -1544,4 +1521,33 @@ Wire Wire Line
 Connection ~ 7850 2000
 NoConn ~ 7500 2100
 NoConn ~ 6500 2200
+$Comp
+L CONN_02X07 P2
+U 1 1 56B8B30D
+P 2150 2200
+F 0 "P2" H 2150 2600 50  0000 C CNN
+F 1 "CONN_02X07" V 2150 2200 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x07" H 2150 1000 50  0001 C CNN
+F 3 "" H 2150 1000 50  0000 C CNN
+	1    2150 2200
+	-1   0    0    1   
+$EndComp
+Connection ~ 3000 1250
+Wire Wire Line
+	1500 1600 2800 1600
+Wire Wire Line
+	2800 1600 2800 1800
+Wire Wire Line
+	2800 1800 3250 1800
+Wire Wire Line
+	3000 1750 3000 1800
+Connection ~ 3000 1800
+Wire Wire Line
+	1700 1750 2700 1750
+Wire Wire Line
+	2700 1750 2700 1900
+Wire Wire Line
+	2700 1900 3250 1900
+NoConn ~ 2400 1900
+NoConn ~ 1900 1900
 $EndSCHEMATC

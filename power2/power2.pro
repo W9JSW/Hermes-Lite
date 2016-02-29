@@ -1,4 +1,4 @@
-update=05/01/2016 10:49:31
+update=12/02/2016 10:45:25
 version=1
 last_client=kicad
 [cvpcb]
@@ -65,13 +65,14 @@ LibName30=contrib
 LibName31=valves
 LibName32=hermeslite
 LibName33=w_device
+LibName34=zener-sot-23-3
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
 PlotDirectoryName=
 SubpartIdSeparator=0
 SubpartFirstId=65
-NetFmtName=PcbnewAdvanced
+NetFmtName=Pcbnew
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=50
