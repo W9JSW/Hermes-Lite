@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PZT2222A
+D PZT2222A, 40V Vce, 1A Ic, NPN, General Purpose Transistor, SOT223
+K NPN General Puprose Transistor SMD SOT223
+F http://www.fairchildsemi.com/ds/PN/PN2222A.pdf
+$ENDCMP
+#
+$CMP PZT2222A-T
+D PZT2222A, 40V Vce, 1A Ic, NPN, General Purpose Transistor, SOT223
+K NPN General Puprose Transistor SMD SOT223
+F http://www.fairchildsemi.com/ds/PN/PN2222A.pdf
+$ENDCMP
+#
+#End Doc Library
