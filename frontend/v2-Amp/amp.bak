@@ -1180,4 +1180,8 @@ Wire Wire Line
 	5900 4200 5950 4200
 Wire Wire Line
 	6450 4200 6500 4200
+Connection ~ 6450 4200
+Connection ~ 6500 4200
+Connection ~ 5950 4200
+Connection ~ 5900 4200
 $EndSCHEMATC
